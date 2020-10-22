@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE dean_office>
+<dean_office>
+    <institut_name>ГОСУДАРСТВЕННАЯ ОБРАЗОВАТЕЛЬНАЯ ОРГАНИЗАЦИЯ ВЫСШЕГО ПРОФЕССИОНАЛЬНОГО ОБРАЗОВАНИЯ "ДОНЕЦКИЙ ИНСТИТУТ ЖЕЛЕЗНОДОРОЖНОГО ТРАНСПОРТА"</institut_name>
+    <institut_cut_name>ГОО ВПО "ДОНЕЦКИЙ ИНСТИТУТ ЖЕЛЕЗНОДОРОЖНОГО ТРАНСПОРТА"</institut_cut_name>
+    <institut_litle_name>ДОНИЖТ</institut_litle_name>
+    <curr_year>2019-2020</curr_year>
+    <form>очная</form>
+    <form>заочная</form>
+    <budget_contract>Республиканского бюджета</budget_contract>
+    <budget_contract>физических или юридических лиц</budget_contract>
+    <prog level="03" name="бакалавриат"/>
+    <prog level="04" name="магистратура"/>
+    <prog level="05" name="специалитет"/>
+    <dean name="Инфрастуктура и экономика железнодорожного транспорта" cut_name="ИЭЖТ"/>
+    <dean name="Управление на железнодорожном транспорте" cut_name="УЖТ"/>
+    <specialties file_name="dean_data/specialties.xml"/>
+    <users file_name="dean_data/users.xml"/>
+    <adobe key="HKEY_CLASSES_ROOT\\Software\\Adobe\\Acrobat\\Exe"/>
+    <ftp_access user="wwwsite" password="sS87mq0ps" url="192.168.2.1/moodledata/"/>
+</dean_office>

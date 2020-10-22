@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data_student>
+    <name_engl>Berezhnaya Irina</name_engl>
+    <data_born>01.10.2002</data_born>
+    <prikaz>29.07.2019 года № 449/р на 1 курс</prikaz>
+    <budget_contract>Республиканского бюджета</budget_contract>
+    <perevod kurs="1" prikaz="31.08.2020 года № 1449/р" soderg="Переведена на 2-й курс"/>
+    <perevod kurs="2" prikaz="31.08.2021 года № 2449/р" soderg="Переведена на 3-й курс"/>
+    <perevod kurs="3" prikaz="31.08.2022 года № 3449/р" soderg="Переведена на 4-й курс"/>
+    <perevod kurs="4" prikaz="31.08.2023 года № 4449/р" soderg="Переведена на 5-й курс"/>
+    <prev_edu period="2015-2017" name_org="Дебальцевский колледж транспортной инфраструктуры" level_edu="специалист среднего звена"/>
+    <result_control disciplina="История и философия науки" ze="108" kurs="1" semestr="1" data="19.01.2019" form_control="экзамен" ball="4" ball_100="80" ball_7="В"/>
+    <result_control disciplina="Компьютерные технологии" ze="72" kurs="1" semestr="1" data="26.12.2018" form_control="зачет" ball="5" ball_100="90" ball_7="А"/>
+    <result_control disciplina="Макроэкономика (продвинутый уровень)" ze="108" kurs="1" semestr="1" data="23.01.2019" form_control="экзамен" ball="4" ball_100="80" ball_7="В"/>
+    <kr_control disciplina="Экологический маркетинг" semestr="1" tema="" ball="4" ball_100="75" ball_7="C"/>
+    <pract_control vid="Производственная" basa="ГП Донецкая ж.д. ст.Донецк" work="Оператор при дежурном по станции" data="01.06.2019-01.07.2019" ball="4" ball_100="80" ball_7="В"/>
+    <dp_control tema="Управление поездной и маневровой работой на участковой станции" ball="4" ball_100="80" ball_7="В"/>
+    <nir_control num="1" name="Совершенствование системы управления поездной и грузовой работы станции. Тезисы XXI студенческой конференции Донецкого института железнодорожного транспорта"/>
+    <extra_edu_control num="1" name="Староста группы 1-ЭЖД"/>
+    <extra_edu_control num="2" name="Участвовала в акции &quot;Георгиевская Лента&quot;"/>
+    <add_edu_control num="1" name="Приемосдатчик груза и багажа" value="3"/>
+    <add_data>список языков: английский, уровень владения языком: со словарем</add_data>
+    <kontakts>Телефон: 071-369-72-23 Электронная почта:</kontakts>
+</data_student>
